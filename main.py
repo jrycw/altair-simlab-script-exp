@@ -8,7 +8,7 @@ PADS4 = " "*4
 def _get_base_template():
     """
     Internal implementation
-    Assume retrievd the template from API Call or given as *.xml in Simlab
+    Assume we can retrieve the template from API call or given as *.xml in SimLab
     """
     return """<RenameBody CheckBox="ON" UUID="78633e0d-3d2f-4e9a-b075-7bff122772d8">
     <SupportEntities>
