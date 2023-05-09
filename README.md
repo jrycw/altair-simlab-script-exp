@@ -1,4 +1,7 @@
 # altair-simlab-script-exp
+## Streamlit interface
+https://jrycw-altair-simlab-script-exp-srcst-app-ndetpx.streamlit.app/
+
 ## Why this repo
 This repo is an experiment to see if there are different approaches to writing the SimLab script.
 
