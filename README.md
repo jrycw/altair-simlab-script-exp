@@ -291,7 +291,7 @@ def get_tree(**kwargs):    
     Output = ET.Element('Output', {})    
     Output.text = None    
     rootx.append(Output)    
-    return rootx'
+    return rootx
 ```
 
 ## TODOs
